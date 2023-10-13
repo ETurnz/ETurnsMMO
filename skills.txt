@@ -1,0 +1,21 @@
+enchanting
+
+woodcutting
+woodworking
+
+fishing
+cooking
+
+mining
+smithing
+
+farming
+potion making
+________________________
+UNSURE
+
+jewelcrafting
+skinning
+leatherworking
+necromancy
+skill that increases energy regen?

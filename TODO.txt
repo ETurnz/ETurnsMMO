@@ -1,0 +1,4 @@
+make tcp and udp send functions on both client and server append clientID: to the beginning of every message. For client this would be their clientID, for server it would be intended targets ID.
+
+Make tcp and udp receive functions parse the message format and separate the clientID from the rest of the message.
+
